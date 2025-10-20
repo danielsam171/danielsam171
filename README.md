@@ -7,14 +7,19 @@
 </p>
 
 ---
+<div align="center" style="max-width:900px; margin: 0 auto;">
+  <p style="margin:0 0 18px 0; font-size:16px; line-height:1.6; text-align:center;">
+    Soy estudiante de Ingenieria de Sistemas y Computacion de la Universidad Nacional de Colombia,
+    interesado en tecnologias emergentes y el desarrollo de software en sus diferentes etapas.
+    Tengo conocimiento en el desarrollo de aplicaciones moviles en Android, manejo de bases de datos
+    relacionales ademas de habilidad en el manejo de diferentes lenguajes de programacion.
+  </p>
 
-<p align="center">
-  Soy estudiante de Ingenieria de Sistemas y Computación de la Universidad Nacional de Colombia, interesado en tecnologias emergentes y el desarrollo de software en sus diferentes etapas. Tengo conocimiento en el desarrollo de aplicaciones moviles en Android, manejo de bases de datos relacionales ademas de habilidad en el manejo de diferentes lenguajes de programación. 
-</p>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+       alt="GIF" style="max-width:400px; width:100%; height:auto;">
+</div>
 
 <h2 align="center">🛠 Habilidades Técnicas</h2>
-
-
 
 #### 🔧 Lenguajes
 
