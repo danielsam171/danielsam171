@@ -1,28 +1,33 @@
-<h3 align="center">
-  Hi, I'm Daniel Samacá
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
+<h1 align="center"><b>Hola, Soy Daniel Samacá </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingenieria+de+Sistemas+y+Computacion;Pasion+por+aprender+nuevas+tecnologias;Balance+entre+tecnologia+y+bienestar;Aprendisaje+y+contruccion+constante">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Soy estudiante de Ingenieria de Sistemas y Computación de la Universidad Nacional de Colombia, interesado en tecnologias emergentes y el desarrollo de software en sus diferentes etapas. Tengo experiencia en el desarrollo de aplicacines moviles en Android, manejo de bases de datos relacionales ademas de conocimiento y habilidad en diferentes lenguajes de programación. 
+  Soy estudiante de Ingenieria de Sistemas y Computación de la Universidad Nacional de Colombia, interesado en tecnologias emergentes y el desarrollo de software en sus diferentes etapas. Tengo conocimiento en el desarrollo de aplicaciones moviles en Android, manejo de bases de datos relacionales ademas de habilidad en el manejo de diferentes lenguajes de programación. 
 </p>
 
+<h2 align="center">🛠 Habilidades Técnicas</h2>
 
-## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+
+#### 🔧 Lenguajes
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-#### 🔧 Database
+#### 🔧 Base de Datos
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🔧 Tools
+#### 🔧 Herramientas Tecnicas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,7 +38,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Profile Statistics
+#### 🔧 Redes Sociales
+<a href = "https://www.instagram.com/daniel.sam.g">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+## 📊 Estadisticas
 
  <div align=center>
 
